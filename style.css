@@ -1,0 +1,23 @@
+h1{
+    background-color: rgb(175, 218, 175);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 36px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+hX{
+    background-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    text-align: left;
+    text-decoration: aliceblue;
+}
+
+li{
+    background-color: rgb(7, 212, 185);
+    font-size: 24px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
+    text-indent: 0cm;
+}
